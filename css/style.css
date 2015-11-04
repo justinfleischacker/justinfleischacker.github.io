@@ -1,0 +1,26 @@
+body{
+  background-color: #fffff8;
+  color: #111;
+  font-family: 'News Cycle', sans-serif;
+  margin:0;
+}
+a{
+  text-decoration: none;
+  color: steelblue;
+}
+a:hover{
+  text-decoration: underline;
+}
+p{
+  padding: 0 20px;
+}
+.book{
+  font-variant: small-caps;
+}
+#image-text{
+  text-decoration: none;
+  font-size: 2em;
+}
+#resume-link{
+  color: white;
+}
